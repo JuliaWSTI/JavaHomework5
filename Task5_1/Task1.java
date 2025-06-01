@@ -4,6 +4,7 @@ import java.util.TreeSet;
 
 class Wspolrzedna implements Comparable<Wspolrzedna> {
 
+
     private int x, y;
     public Wspolrzedna(int x, int y) {
         this.x = x;
